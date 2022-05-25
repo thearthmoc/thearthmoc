@@ -18,10 +18,6 @@
 
 <div>
   <a href="https://www.linkedin.com/in/thearthmoc" target="_blank"> <img align="center" alt="thearthmoc-Linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</div>
-  
-##
-  
-<div>
+
   ![Snake animation](https://github.com/thearthmoc/thearthmoc/blob/output/github-contribution-grid-snake.svg)
 </div>
